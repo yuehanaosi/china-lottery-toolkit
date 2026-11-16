@@ -1,0 +1,4 @@
+interface:
+  display_name: "中国彩票研究与选号工具箱 | China Lottery Research & Pick Toolkit"
+  short_description: "体彩福彩选号、开奖与走势研究 | Lottery picks, draws & trends"
+  default_prompt: "使用 $china-lottery-toolkit 核对大乐透官方开奖，并按 10 元预算生成 5 注单式号码。"
