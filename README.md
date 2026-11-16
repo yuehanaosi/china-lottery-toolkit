@@ -29,3 +29,10 @@ Codex 示例 / Example prompt:
 
 独立项目，与彩票发行机构无隶属关系。历史走势不会提高公平开奖下单注的理论中奖概率。项目不提供购票或支付功能。
 Independent project. Historical patterns do not improve per-entry odds in a fair draw. No ticket purchase or payment functionality.
+
+## 赞赏支持 / Support
+
+如果这个 Skill 对你有帮助，欢迎用微信扫描下方“OSE 公益”赞赏码，自愿支持项目维护。
+If you find this skill useful, you can scan the “OSE 公益” code in WeChat to voluntarily support its maintenance.
+
+<img src="assets/ose-wechat-support.jpg" alt="OSE 公益微信赞赏码 / OSE WeChat appreciation code" width="340">
