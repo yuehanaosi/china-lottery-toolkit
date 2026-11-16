@@ -1,9 +1,13 @@
 ---
 name: china-lottery-toolkit
-description: 中国体彩与福彩选号、历期开奖核验、玩法辨别和预算计算；适用于大乐透、双色球、7星彩、排列3/5、福彩3D、快乐8、七乐彩。 Generate and validate China Sports and Welfare Lottery picks, verify official draws, and calculate ticket costs.
+description: 中国体彩与福彩选号、历期开奖核验、号码走势统计、玩法辨别和预算核算；适用于大乐透、双色球、7星彩、排列3/5、福彩3D、快乐8、七乐彩。 Generate and validate China Sports and Welfare Lottery picks, verify official draws, analyze historical number trends, and calculate ticket costs.
 ---
 
-# 中国彩票全品类工作台 · China Lottery Toolkit
+# 中国彩票研究与选号工具箱：体彩、福彩、历期开奖、号码走势与预算核算
+
+## China Lottery Research & Pick Toolkit for Sports and Welfare Lottery Draws, Number Trends and Budget Checks
+
+**技能 SKU / Skill SKU** · `CLT-CN-001`
 
 一套技能，覆盖全国联销的体彩与福彩乐透、数字和基诺选号，并为地方彩、赛事竞猜和即开票提供核验入口。
 One toolkit for nationwide Sports and Welfare Lottery picks, with verification workflows for regional games, sports pools and scratch tickets.
